@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="counter">00:00:00</string>
+    <string name="start">Mulai</string>
+    <string name="stop">Berhenti</string>
+    <string name="reset">Reset</string>
+    <string name="save">Simpan Putaran</string>
+</resources>
